@@ -113,8 +113,8 @@ function Player(props) {
             <Modal.Title>{nama}</Modal.Title>
           </Modal.Header>
           <Modal.Body>
-            <p>Jurusan : {tim}</p>
-            <p>Universitas : {kebangsaan}</p>
+            <p>Jurusan : {jurusan}</p>
+            <p>Universitas : {universitas}</p>
             <p>
               Tentang : <br /> {detail}
             </p>
